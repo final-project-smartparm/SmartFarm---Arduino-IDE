@@ -62,7 +62,7 @@ IPAddress subnet(255, 255, 255, 0); //서브넷 마크
 
 OV2640 cam;
 
-WebServer server(18080);
+WebServer server(80);
 
 // ===== rtos task handles =========================
 // Streaming is implemented with 3 tasks:
