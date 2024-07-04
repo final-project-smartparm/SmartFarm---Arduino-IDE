@@ -52,27 +52,27 @@
     1. Wire.h
         - 기능 : I2C 통신을 위한 라이브러리
         - 설명: 다른 I2C 장치와 Arduino 간의 데이터 통신을 담당
-    ```c
-    #include <Wire.h>
-    ``` 
+        ```c
+        #include <Wire.h>
+        ``` 
     2. LiquidCrystal_I2C.h
         - 기능: LCD 1602를 I2C 인터페이스로 제어하기 위한 라이브러리
         - 설명: 텍스트 및 기호를 LCD에 표시할 수 있음
-    ```c
-    #include <LiquidCrystal_I2C.h>
-    ``` 
+        ```c
+        #include <LiquidCrystal_I2C.h>
+        ``` 
     3. Adafruit_NeoPixel.h
         - 기능: Adafruit사의 Neopixel (WS2812) LED를 제어하기 위한 라이브러리
         - 설명: RGB LED의 색상 및 밝기를 제어할 수 있음
-     ```c
-    #include <Adafruit_NeoPixel.h> 
-    ```    
+        ```c
+        #include <Adafruit_NeoPixel.h> 
+        ```    
     4. DHT.h
         - 기능: DHT 시리즈(온습도 센서)를 제어하기 위한 라이브러리
         - 설명: 주변 환경의 온도와 습도를 측정할 수 있음
-    ```c
-    #include "DHT.h"
-    ``` 
+        ```c
+        #include "DHT.h"
+        ``` 
 
 2. 정의된 상수 및 변수
     1. DHTPIN: DHT 센서의 데이터 핀을 A0로 정의
