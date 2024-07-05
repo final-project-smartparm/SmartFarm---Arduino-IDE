@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("camera_wpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae832bb98b49d00f69c86a5aecc4b41efa20c824")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3170532991c30d59c6b356a9b9e45940bb95eaf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("camera_wpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("camera_wpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
