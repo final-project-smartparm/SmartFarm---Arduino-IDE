@@ -9,11 +9,10 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
+using System.Threading.Tasks;
 using System.Windows.Shapes;
-using System;
-using System.Threading;
 
-namespace WpfApp1
+namespace camera_wpf
 {
     public partial class MainWindow : Window
     {
